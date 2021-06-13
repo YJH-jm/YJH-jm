@@ -1,20 +1,20 @@
 ### Hi there 👋
 
-Github 프로파일 Readme.md Source Code
 
+<!--
 <div align=center>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
-
+-->
 </div>
 
-### 데싸 입니다.
-- 데이터 사이언티스트 in ABC Corp.
-- I organize a group of developers who write blog posts
+## learning
+- python, ORACLE SQL, .. 
 
 ### Interest
-- Google Cloud Platform(Especially, BigQuery)
-- Leadership, Mentoring, Writing, Presentation
+- sensor data, CNN, hyper-parameter optimization .. 
+- python, C++, ..
+
 
 <div align=center>
 <!--
@@ -24,8 +24,14 @@ Github 프로파일 Readme.md Source Code
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/test)](https://www.facebook.com/zzsza) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ttest/)](https://www.instagram.com/aa/) 
 -->
+
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jmjhjob13@gmail.com)](mailto:kimtaeyou0923@gmail.com)
 </div>
+
+
+![YJH-jm's github stats](https://github-readme-stats.vercel.app/api?username=YJH-jm&show_icons=true)
+
+[![YJH-jm's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YJH-jm&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/YJH-jm)
 
 <!--
 **YJH-jm/YJH-jm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
