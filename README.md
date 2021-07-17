@@ -13,7 +13,7 @@
 
 ### Interest
 - sensor data, CNN, hyper-parameter optimization .. 
-- python, C++, ..
+- python, C++, SQL..
 
 
 <div align=center>
