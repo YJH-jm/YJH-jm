@@ -27,7 +27,7 @@
  <img src="https://img.shields.io/badge/Filebeat-005571?style=flat-square&logo=&logoColor=white"/></a>
 
 ### Interest
-- sensor data, CNN, hyper-parameter optimization .. 
+- sensor data, CNN, hyper-parameter optimization, Genetic Algorithm .. 
 - python, C++, SQL..
 
 
