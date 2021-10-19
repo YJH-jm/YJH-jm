@@ -29,7 +29,7 @@
 
 ### Interest
 - sensor data, CNN, hyper-parameter optimization, Genetic Algorithm ..
-- python, C++, SQL 
+- python, C++, SQL...
 
 
 <div align=center>
