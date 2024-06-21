@@ -10,14 +10,9 @@
 ## ⭐  Interests
 **Computer Vision**
 - Object Detection, Object Tracking, Human Pose Estimation, ..
- 
-<br>
-<br>
 
 ## 🌱 Tech Stack
 <!-- <details> -->
-  <p>
-<!--   <p align='center'> -->
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> </a>
  <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"> 
  
@@ -41,7 +36,8 @@
  <img src="https://img.shields.io/badge/Filebeat-005571?style=flat-square&logo=&logoColor=white"/></a>
 
 ## 📫 Contacts
-
+- Gmail : [Link](jmjhjob13@gmail.com)
+- Blog : [Link](https://yjh-jm.github.io/)
 <div align=center>
 <!--
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://a.github.io/)](https://a.github.io/) 
