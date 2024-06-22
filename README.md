@@ -38,19 +38,20 @@
 ## 📫 Contacts
 - Gmail : [Link](jmjhjob13@gmail.com)
 - Blog : [Link](https://yjh-jm.github.io/)
-<div align=center>
 <!--
+<div align=center>
+
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://a.github.io/)](https://a.github.io/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/test/)](https://www.linkedin.com/in/a/) 
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/a)](https://www.youtube.com/c/test) 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/test)](https://www.facebook.com/zzsza) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ttest/)](https://www.instagram.com/aa/) 
--->
+
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jmjhjob13@gmail.com)](mailto:kimtaeyou0923@gmail.com)
 </div>
 
-
+-->
 <!-- ![YJH-jm's github stats](https://github-readme-stats.vercel.app/api?username=YJH-jm&show_icons=true) -->
 
 <!-- [![YJH-jm's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YJH-jm&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/YJH-jm) -->
